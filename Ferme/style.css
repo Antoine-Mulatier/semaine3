@@ -1,0 +1,67 @@
+div{
+    background-color: white;
+}
+img{
+    width: 100px;
+    background-color: white;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+*{
+    background-color: rgb(194, 193, 193);
+}
+
+.maison{
+    text-align: center;
+}
+
+h1{
+    text-align: left;
+    background-color: white;
+}
+
+h2{
+    background-color: white;
+}
+
+
+
+p.bloc{
+    display: inline-block;
+    text-align: left;
+    background-color: white;
+}
+
+p.bloc span{
+    display: block;
+    background-color: white;
+}
+
+span{
+    background-color: white;
+}
+
+#left, #midleft, #midright, #right{
+    width: 22%;
+    top: auto;
+    display: inline-block;
+    margin: 15px;
+    
+}
+
+.tree{
+    width: 250px;
+}
+
+
+
+a{
+    background-color: white;
+}
+
+.wheat{
+    width: 125px;
+}
